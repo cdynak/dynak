@@ -1,0 +1,24 @@
+{
+  "name": "dynak",
+  "version": "0.0.0",
+  "description": "dynamic knowledge management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdynak/dynak.git"
+  },
+  "keywords": [
+    "knowledge-management",
+    "linked-data",
+    "semantic-web"
+  ],
+  "author": "cezary dynak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdynak/dynak/issues"
+  },
+  "homepage": "https://github.com/cdynak/dynak#readme"
+}
